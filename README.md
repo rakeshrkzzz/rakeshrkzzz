@@ -1,11 +1,11 @@
 # Hi, I'm Rakesh 👋
 **Full Stack Developer with AWS Knowledge**
 
-🌱 I’m currently learning **Next.js**, **TypeScript**, and **Monorepo**.
+🌱 I’m currently learning **Next.js**, **Jest**, and **DevOps**.
 
 👨‍💻 Check out all of my projects at [My Portfolio]().
 
-💬 Feel free to ask me about **React**, **JavaScript**, **HTML**, **CSS**.
+💬 Feel free to ask me about **React**, **NodeJs**, **AWS**, **React Native**, **NoSql**, **Sql**, **JavaScript**, **HTML**, **CSS**.
 
 📫 How to reach me: rakeshrkz2101@gmail.com
 
